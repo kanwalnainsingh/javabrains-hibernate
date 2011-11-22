@@ -75,4 +75,9 @@ public class Address {
                 this.postCode = postCode;
         }
 
+        @Override
+        public String toString() {
+                return "city: " + getCity();
+        }
+
 }

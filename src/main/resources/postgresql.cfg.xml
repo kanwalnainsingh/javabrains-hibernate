@@ -37,6 +37,7 @@
         <mapping class="org.obliquid.hibernate._02_value_object.User2"/>
         <mapping class="org.obliquid.hibernate._03_set.User3"/>
         <mapping class="org.obliquid.hibernate._04_collection.User4"/>
+        <mapping class="org.obliquid.hibernate._05_proxy_objects.User5"/>
         
     </session-factory>
 
